@@ -1,1 +1,1 @@
-In this repository I post my works done during the course "Text Analysis" using R-language 
+In this repository I post my pet projects on text analysis using R-language
